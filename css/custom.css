@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Barrio|Indie+Flower|Shadows+Into+Light');
+
+
+.title-font{
+	font-family: 'Shadows Into Light', cursive;
+}
+p{
+	font-size: 15px;
+}
+body{
+	background-color:rgb(245, 203, 189);
+}
+.perfect-text{
+	font-family: 'Shadows Into Light', cursive;
+}
+
+.container {
+	padding-top: 20px;
+}
+
+.with-circle{
+	column-width: 200
+}
+.navbar{
+	color:white;
+}
+
+.navbar-zahraa{
+	background-color: rgb(153, 0, 51);
+}
+
+.margin-bottom{
+	margin-bottom: 20px;
+}
+.navbar-font{
+	font-family: 'Shadows Into light', cursive;
+	font-size:35;
+
+}
